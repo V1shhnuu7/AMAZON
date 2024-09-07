@@ -1,2 +1,2 @@
 # AMAZON
-This is my Amazon clone project made with html/css
+This is my Amazon clone project made with html/css.
